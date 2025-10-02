@@ -1,4 +1,4 @@
-# Microservices Lab – Storefront & Warehouse
+# Microservices  – Storefront & Warehouse
 
 ## 🏗️ Descrição do Projeto
 
